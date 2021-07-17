@@ -1,1 +1,1 @@
-# lyric-from-joox
+# joox-lyrics
